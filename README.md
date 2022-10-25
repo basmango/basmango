@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basmango
 - 👀 I’m interested in a robotics, backend engineering, front-end frameworks, develeoper operations and making cool stuff !
 - 🌱 I’m currently learning computer graphics, compilers and robotics 🤖
-- 💞️ I’m looking to collaborate on projects working in cloud technologies
+- 💞️ I’m looking to collaborate on projects with real customers
 - 📫 You can reach me at bassampervez@gmail.com
 
 <!---
