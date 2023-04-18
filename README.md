@@ -2,7 +2,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 ## What I'm Interested In 👀
 
-I'm currently focused on learning computer graphics, cloud computing, compilers, and robotics. I'm fascinated by the potential of robotics and IoT to transform industries and improve people's lives. I'm also enthusiastic about functional programming, control systems, and pushing the boundaries of what's possible with technology.
+I'm currently focused on learning computer graphics, cloud computing, distributed systems, and robotics. I'm fascinated by the potential of robotics and IoT to transform industries and improve people's lives. I'm also enthusiastic about functional programming, control systems, and pushing the boundaries of what's possible with technology.
 
 ## Reach Out! 📫
 
