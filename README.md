@@ -13,6 +13,7 @@ If you'd like to connect or collaborate, I'd love to hear from you! You can reac
 As a hardcore generalist, I bring a diverse range of skills to the table. I thrive on exploring and mastering different domains, and I'm always eager to take on new challenges. My expertise in robotics, backend engineering, front-end frameworks, and developer operations make me well-suited for projects that require a multidisciplinary approach. I'm also well-versed in functional programming, control systems, and IoT, making me a valuable asset for cutting-edge technology initiatives.
 Join Me in Creating Cool Stuff! 🚀
 
+- 📄 [Resume](https://docs.google.com/document/d/e/2PACX-1vRTWRNKoaPSRDA4yuEXzAORSLzj_0s_FzzPjNR6VUNJSRHKqAtyus0hgAmNKNerLw/pub)
 <!---
 basmango/basmango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
