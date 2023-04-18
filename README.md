@@ -10,7 +10,6 @@ My Unique Skill Set 💪
 As a hardcore generalist, I bring a diverse range of skills to the table. I thrive on exploring and mastering different domains, and I'm always eager to take on new challenges. My expertise in robotics, backend engineering, front-end frameworks, and developer operations make me well-suited for projects that require a multidisciplinary approach. I'm also well-versed in functional programming, control systems, and IoT, making me a valuable asset for cutting-edge technology initiatives.
 Join Me in Creating Cool Stuff! 🚀
 
-If you're looking for a passionate software engineer who is not afraid to push the boundaries of what's possible, then look no further! I'm excited about the opportunity to contribute my skills and expertise to startups, companies, and projects that align with my interests. Let's collaborate and create something awesome together!
 <!---
 basmango/basmango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
