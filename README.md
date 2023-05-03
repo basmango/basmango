@@ -1,17 +1,6 @@
 Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating cutting-edge technology. I have a strong background in robotics, backend engineering, front-end frameworks, and developer operations, and I'm always eager to learn and explore new domains.
 
-## What I'm Interested In 👀
-
-I'm currently focused on learning computer graphics, cloud computing, distributed systems, and robotics. I'm fascinated by the potential of robotics and IoT to transform industries and improve people's lives. I'm also enthusiastic about functional programming, control systems, and pushing the boundaries of what's possible with technology.
-
-## Reach Out! 📫
-
-If you'd like to connect or collaborate, I'd love to hear from you! You can reach me at bassampervez@gmail.com or through the contact information provided in my resume. I'm open to exciting opportunities and would be thrilled to contribute my skills to your startup or company.
-
-## My Unique Skill Set 💪
-
-As a hardcore generalist, I bring a diverse range of skills to the table. I thrive on exploring and mastering different domains, and I'm always eager to take on new challenges. 
-Join Me in Creating Cool Stuff! 🚀
+Im currently looking for full-time opportunities, feel free to reach out to me at bassampervez@gmail.com
 
 - 📄 [Resume](https://docs.google.com/document/d/e/2PACX-1vRTWRNKoaPSRDA4yuEXzAORSLzj_0s_FzzPjNR6VUNJSRHKqAtyus0hgAmNKNerLw/pub)
 <!---
