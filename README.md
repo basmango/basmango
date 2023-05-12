@@ -2,8 +2,3 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 Im currently looking for full-time opportunities, feel free to reach out to me at bassampervez@gmail.com
 
-- 📄 [Resume](https://docs.google.com/document/d/e/2PACX-1vRTWRNKoaPSRDA4yuEXzAORSLzj_0s_FzzPjNR6VUNJSRHKqAtyus0hgAmNKNerLw/pub)
-<!---
-basmango/basmango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
