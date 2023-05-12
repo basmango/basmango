@@ -2,4 +2,4 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 Im currently looking for full-time opportunities, feel free to reach out to me at bassampervez@gmail.com
 
-- 📄 [Resume]([https://docs.google.com/document/d/e/2PACX-1vRTWRNKoaPSRDA4yuEXzAORSLzj_0s_FzzPjNR6VUNJSRHKqAtyus0hgAmNKNerLw/pub](https://drive.google.com/file/d/1BpIQRcGfcb4ALVl9gRu5PU9RbIa_yC7g/view?usp=sharing)
+- 📄 [Resume]([https://docs.google.com/document/d/e/2PACX-1vRTWRNKoaPSRDA4yuEXzAORSLzj_0s_FzzPjNR6VUNJSRHKqAtyus0hgAmNKNerLw/pub](https://drive.google.com/file/d/1BpIQRcGfcb4ALVl9gRu5PU9RbIa_yC7g/view?usp=sharing))
